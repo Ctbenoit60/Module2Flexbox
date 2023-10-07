@@ -60,6 +60,6 @@
 }
 
 .flex-basis-item-50, .flex-wrap {
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     flex-basis: 50%;
 }
