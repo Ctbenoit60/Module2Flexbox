@@ -43,9 +43,14 @@
 }
 
 .flex-item-3 {
-    flex: 3;
+  flex: 3;
 }
 
 .flex-item-4 {
-    flex: 4;
+  flex: 4;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
 }
